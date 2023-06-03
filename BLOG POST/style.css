@@ -1,0 +1,105 @@
+body {
+    font-family: cursive;
+    margin: 0;
+    padding: 0;
+    background:linear-gradient(rgb(233, 45, 45),rgb(170, 142, 56));
+  }
+  
+  header {
+    background:linear-gradient(rgb(48, 37, 37),rgb(190, 181, 154));
+    color: #361212;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  h4{
+    text-align:left;
+  }
+  main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+  }
+  
+  .post-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  .image{
+     justify-content: center;
+     height: 300px;
+     width:400px;
+     align-content: center;
+  }
+  
+  .author-info {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .author-avatar {
+    width: 70px;
+    height: 70px;
+    border-radius: 60%;
+    margin-right: 20px;
+  }
+  
+  .author-bio h3 {
+    margin: 0;
+  }
+  
+  .post-content {
+    margin-bottom: 20px;
+  }
+  
+  .comments-section {
+    margin-top: 40px;
+  }
+  
+  .comment-info {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .comment-content {
+    margin: 0;
+  }
+  
+  .comment-form {
+    margin-top: 20px;
+  }
+  
+  .comment-form label,
+  .comment-form input,
+  .comment-form textarea,
+  .comment-form input[type="submit"] {
+    display: block;
+    margin-bottom: 10px;
+    width: 100%;
+  }
+  
+  .comment-form input[type="submit"] {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  footer {
+    background-color: #f2f2f2;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
